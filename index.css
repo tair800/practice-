@@ -1,0 +1,13 @@
+.cities{
+    list-style: none;
+    margin: 0;
+}
+.cities li{
+    padding: 10px;
+    
+}
+.cont{
+    height: 100px;
+    width: 100%;
+  
+}
